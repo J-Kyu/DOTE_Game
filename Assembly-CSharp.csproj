@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CameraMove.cs" />
+     <Compile Include="Assets\CompleteCube.cs" />
      <Compile Include="Assets\DOTEManager.cs" />
      <Compile Include="Assets\Player.cs" />
  <Reference Include="UnityEditor.StandardEvents">
