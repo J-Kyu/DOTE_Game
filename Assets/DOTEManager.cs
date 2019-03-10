@@ -6,6 +6,7 @@ public class DOTEManager : MonoBehaviour {
 
 	// Use this for initialization
 	[SerializeField] private GameObject gameOverUI = null;
+	
 	void Start () {
 		
 	}
@@ -21,6 +22,8 @@ public class DOTEManager : MonoBehaviour {
 	public void Retry(){
 		//장애물 새로 만들기
 		//원위치
+
+
 		gameOverUI.SetActive(false);
 
 	}

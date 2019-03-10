@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Complete
+  - Jump
+  - FakeJumpTile
   layers:
   - Default
   - TransparentFX

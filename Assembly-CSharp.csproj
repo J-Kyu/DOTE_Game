@@ -56,6 +56,8 @@
      <Compile Include="Assets\CameraMove.cs" />
      <Compile Include="Assets\CompleteCube.cs" />
      <Compile Include="Assets\DOTEManager.cs" />
+     <Compile Include="Assets\Level_1.cs" />
+     <Compile Include="Assets\Level_2.cs" />
      <Compile Include="Assets\Player.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/jeonsang-gyu/Desktop/DOTE/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
